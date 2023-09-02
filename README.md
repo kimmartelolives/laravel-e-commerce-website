@@ -22,6 +22,8 @@
 
 ![image](https://github.com/kimmartelolives/laravel-e-commerce-website/assets/61133176/37d31b66-7ac3-4f58-b6cc-122dd74ef074)
 
+![image](https://github.com/kimmartelolives/laravel-e-commerce-website/assets/61133176/e08ff0b3-d7dc-457e-b26c-4f7a65a57257)
+
 ![image](https://github.com/kimmartelolives/laravel-e-commerce-website/assets/61133176/998810dd-9aa8-46bc-80a3-48f1a1bcdc31)
 
 ![image](https://github.com/kimmartelolives/laravel-e-commerce-website/assets/61133176/287afd89-bba9-4934-bfbd-c478e2d9cdbf)
